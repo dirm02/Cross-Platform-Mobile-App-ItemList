@@ -1,6 +1,6 @@
 # Cross-Platform-Mobile-App-ItemList
 A simple cross-platform mobile application using React Native framework
-This is a new [**React Native**](https://reactnative.dev) project
+
 
 # Getting Started
 
